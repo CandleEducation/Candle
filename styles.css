@@ -1049,14 +1049,6 @@ select {
 	/* end of details 2 */
 
 
-	/* Contact */
-	.form-1 .list-unstyled li {
-		display: block;
-		margin-right: 0rem;
-	}
-	/* end of contact */
-
-
 	/* Extra Pages */
 	.ex-basic-1 .text-box {
 		padding: 1.75rem 2rem 0.875rem 2rem;
@@ -1197,34 +1189,6 @@ select {
 		width: 23rem;
 	}
 	/* end of details 1 */
-
-
-	/* Details Modal */
-	/* Stops body and navbar shift on modal open */
-	body.modal-open {
-		overflow-y: scroll !important;
-		padding-right: 0 !important;
-	}
-
-	body.modal-open .navbar {
-		padding-right: 0 !important;
-	}
-	/* end of stops body and navbar shift on modal open */
-
-	.modal {
-		padding-right: 0 !important;
-	}
-
-	.modal-dialog {
-		margin-top: 120px;
-		margin-right: auto;
-		margin-left: auto;
-	}
-	
-	.modal-content .image-container {
-		margin-bottom: 0;
-	}
-	/* end of details modal */
 	
 	
 	/* Details 2 */
@@ -1239,7 +1203,7 @@ select {
 	/* end of details 2 */
 
 
-	/* Projects */
+	/* Course */
 	.filter .button {
 		margin-right: 0.25rem;
 		margin-left: 0.25rem;
@@ -1256,7 +1220,7 @@ select {
 		margin-left: 0.625rem;
 		vertical-align: top;
 	}
-	/* end of projects */
+	/* end of Course */
 
 
 	/* Testimonials */
@@ -1295,7 +1259,7 @@ select {
 	/* end of testimonials */
 
 
-	/* Pricing */
+	/* pack */
 	.cards-2 .card {
 		display: inline-block;
 		width: 298px;
@@ -1306,7 +1270,7 @@ select {
 		margin-right: 1rem;
 		margin-left: 1rem;
 	}
-	/* end of pricing */
+	/* end of pack */
 
 
 	/* Invitation */
@@ -1410,15 +1374,7 @@ select {
 		margin-left: 2.75rem;
 	}
 	/* end of details 1 */
-
-
-	/* Details Modal */
-	.modal-content {
-		padding-right: 2rem;
-		padding-left: 2rem;
-	}
-	/* end of details modal */
-
+	
 
 	/* Details 2 */
 	.counter {
@@ -1440,11 +1396,11 @@ select {
 	/* end of details 2 */
 
 
-	/* Projects */
+	/* Course */
 	.filter .grid {
 		max-width: 1120px;
 	}
-	/* end of projects */
+	/* end of Course */
 
 
 	/* Testimonials */
@@ -1458,7 +1414,7 @@ select {
 	/* end of testimonials */
 
 
-	/* Pricing */
+	/* pack */
 	.cards-2 .card {
 		width: 342px;
 	}
@@ -1467,23 +1423,7 @@ select {
 		margin-right: 2.5rem;
 		margin-left: 2.5rem;
 	}
-	/* end of pricing */
-
-
-	/* Invitation */
-	.basic-2 .text-container {
-		padding: 8rem 12rem;
-	}
-	/* end of invitation */
-
-
-	/* Contact */
-	.form-1 form {
-		width: 860px;
-		margin-right: auto;
-		margin-left: auto;
-	}
-	/* end of contact */
+	/* end of pack */
 
 
 	/* Footer */
