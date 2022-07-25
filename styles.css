@@ -1621,9 +1621,9 @@ svg#freepik_stories-teacher-student.animated #freepik--character-1--inject-2 {
 	
 	.header .image-container img, svg {
 	position: absolute;
-	top: 8px;
-	left: 5px;
-	width: 786px;
+	    top: -87px;
+	    left: -64px;
+	    width: 880px;
 	max-width: none;
 	}
 	/* end of header */
